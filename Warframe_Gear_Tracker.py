@@ -5,7 +5,7 @@ import json
 
 gear_list = {}
 
-file_name = "gear.txt"
+file_name = "gear_public.txt"
 
 if os.path.exists(file_name):
     with open(file_name, "r") as f:
