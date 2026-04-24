@@ -1,1 +1,2 @@
 python Warframe_Gear_Tracker.py
+pause
